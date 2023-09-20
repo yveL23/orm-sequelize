@@ -1,0 +1,11 @@
+POST http://localhost:3333/users
+content-type: application/application/json
+
+{
+    name: "Levy",
+    email: "levy@cordeiro.com"
+}
+
+###
+
+GET http://localhost:3333/users
