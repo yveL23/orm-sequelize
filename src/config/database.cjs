@@ -9,5 +9,5 @@ module.exports = {
         underscored: true
     },
 
-User:require("../models/User")
+User: require("../models/User")
 };
